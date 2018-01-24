@@ -3,3 +3,7 @@ U:\Development\Projects\VS 2008\Projects\rtaVideoStreamer\rtaNetworking.Streamin
 U:\Development\Projects\VS 2008\Projects\rtaVideoStreamer\rtaNetworking.Streaming\bin\Debug\rtaNetworking.Streaming.pdb
 U:\Development\Projects\VS 2008\Projects\rtaVideoStreamer\rtaNetworking.Streaming\obj\Debug\rtaNetworking.Streaming.dll
 U:\Development\Projects\VS 2008\Projects\rtaVideoStreamer\rtaNetworking.Streaming\obj\Debug\rtaNetworking.Streaming.pdb
+E:\MJPEG\rtaNetworking.Streaming\bin\Debug\rtaNetworking.Streaming.dll
+E:\MJPEG\rtaNetworking.Streaming\bin\Debug\rtaNetworking.Streaming.pdb
+E:\MJPEG\rtaNetworking.Streaming\obj\Debug\rtaNetworking.Streaming.dll
+E:\MJPEG\rtaNetworking.Streaming\obj\Debug\rtaNetworking.Streaming.pdb

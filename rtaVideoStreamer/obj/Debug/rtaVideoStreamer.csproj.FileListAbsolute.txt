@@ -8,3 +8,13 @@ U:\Development\Projects\VS 2008\Projects\rtaVideoStreamer\rtaVideoStreamer\obj\D
 U:\Development\Projects\VS 2008\Projects\rtaVideoStreamer\rtaVideoStreamer\obj\Debug\rtaVideoStreamer.pdb
 U:\Development\Projects\VS 2008\Projects\rtaVideoStreamer\rtaVideoStreamer\bin\Debug\rtaNetworking.Streaming.dll
 U:\Development\Projects\VS 2008\Projects\rtaVideoStreamer\rtaVideoStreamer\bin\Debug\rtaNetworking.Streaming.pdb
+E:\MJPEG\rtaVideoStreamer\obj\Debug\rtaVideoStreamer.exe
+E:\MJPEG\rtaVideoStreamer\obj\Debug\rtaVideoStreamer.pdb
+E:\MJPEG\rtaVideoStreamer\bin\Debug\rtaVideoStreamer.exe
+E:\MJPEG\rtaVideoStreamer\bin\Debug\rtaVideoStreamer.pdb
+E:\MJPEG\rtaVideoStreamer\bin\Debug\rtaNetworking.Streaming.dll
+E:\MJPEG\rtaVideoStreamer\bin\Debug\rtaNetworking.Streaming.pdb
+E:\MJPEG\rtaVideoStreamer\obj\Debug\rtaVideoStreamer.csprojResolveAssemblyReference.cache
+E:\MJPEG\rtaVideoStreamer\obj\Debug\rtaVideoStreamer.Form1.resources
+E:\MJPEG\rtaVideoStreamer\obj\Debug\rtaVideoStreamer.Properties.Resources.resources
+E:\MJPEG\rtaVideoStreamer\obj\Debug\rtaVideoStreamer.csproj.GenerateResource.Cache

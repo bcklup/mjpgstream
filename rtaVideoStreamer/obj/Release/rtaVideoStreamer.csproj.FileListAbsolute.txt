@@ -1,0 +1,10 @@
+E:\MJPEG\rtaVideoStreamer\bin\Release\rtaVideoStreamer.exe
+E:\MJPEG\rtaVideoStreamer\bin\Release\rtaVideoStreamer.pdb
+E:\MJPEG\rtaVideoStreamer\bin\Release\rtaNetworking.Streaming.dll
+E:\MJPEG\rtaVideoStreamer\bin\Release\rtaNetworking.Streaming.pdb
+E:\MJPEG\rtaVideoStreamer\obj\Release\rtaVideoStreamer.csprojResolveAssemblyReference.cache
+E:\MJPEG\rtaVideoStreamer\obj\Release\rtaVideoStreamer.Form1.resources
+E:\MJPEG\rtaVideoStreamer\obj\Release\rtaVideoStreamer.Properties.Resources.resources
+E:\MJPEG\rtaVideoStreamer\obj\Release\rtaVideoStreamer.csproj.GenerateResource.Cache
+E:\MJPEG\rtaVideoStreamer\obj\Release\rtaVideoStreamer.exe
+E:\MJPEG\rtaVideoStreamer\obj\Release\rtaVideoStreamer.pdb

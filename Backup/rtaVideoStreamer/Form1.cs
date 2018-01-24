@@ -24,21 +24,8 @@ namespace rtaVideoStreamer
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            var source = FolderImagesSource("output\\");
-
             _Server = new ImageStreamingServer();
-            _Server.ImagesSource = source;
             _Server.Start(8080);
-        }
-        private IEnumerable<Image> FolderImagesSource(string path)
-        {
-            var files = System.IO.Directory.GetFiles(path, "*.jpg");
-            for (;;)
-            {
-                foreach (var file in files)
-                    yield return Image.FromFile(file);
-            }
-            yield break;
         }
 
         private DateTime time = DateTime.MinValue;

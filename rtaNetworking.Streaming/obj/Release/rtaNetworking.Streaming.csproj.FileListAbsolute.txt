@@ -1,0 +1,5 @@
+E:\MJPEG\rtaNetworking.Streaming\bin\Release\rtaNetworking.Streaming.dll
+E:\MJPEG\rtaNetworking.Streaming\bin\Release\rtaNetworking.Streaming.pdb
+E:\MJPEG\rtaNetworking.Streaming\obj\Release\rtaNetworking.Streaming.csprojResolveAssemblyReference.cache
+E:\MJPEG\rtaNetworking.Streaming\obj\Release\rtaNetworking.Streaming.dll
+E:\MJPEG\rtaNetworking.Streaming\obj\Release\rtaNetworking.Streaming.pdb
